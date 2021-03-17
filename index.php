@@ -43,7 +43,7 @@
 
     <hr>
 
-    <h2>Lista de Tareas</h2>
+    <h2>Mi Lista de Tareas</h2>
     <?php
     
     $sql = "SELECT * FROM tareas";
