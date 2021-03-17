@@ -9,7 +9,7 @@
     <title>Introducción a PHP</title>
 </head>
 <body>
-    <h1>Manejador de Tareas</h1>
+    <h1>Ejemplo de Manejador de Tareas</h1>
     
     <form action="store.php" method="POST">
         <label for="tarea">Nombre de Tarea</label><br>
